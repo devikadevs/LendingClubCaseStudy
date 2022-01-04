@@ -1,12 +1,6 @@
 # Lending Club Case Study
 > Know more about mitigating the risks involved with loans.
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
@@ -19,10 +13,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Conclusions and Observations provided in the PPT
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
