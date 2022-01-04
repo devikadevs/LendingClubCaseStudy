@@ -49,8 +49,5 @@ Step 4: Bivaraiate/Multivariate Analysis
 - Devika R
 
 
-<!-- Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore. -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
+-- Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore. --
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
